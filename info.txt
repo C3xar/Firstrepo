@@ -2,3 +2,5 @@ example to add
 some files into
 the repo
 and update it
+verify the changes on both sides
+hope is working
